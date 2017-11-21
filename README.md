@@ -11,3 +11,4 @@ Aquí encontrarás algunos de los microtalleres impartidos en nuestros eventos
 - **[Taller de React js con @xDae](http://josemiguel.org/campus-madrid-react-talk/)** [(repo)](https://github.com/xDae/campus-madrid-react-talk)
 - **[Historia del Open Source con @dmery](open%20source%20history/)**
 - **[CSS Grid Layout, ¡Está vivo!](http://ignaciodenuevo.com/speaking/css-grid-layout#slide=1)**
+- **[[Trak de HackMadrid %27] Kali: Taller de Aircrack-ng por Dani Mery](https://github.com/OSWeekends/charlas-y-talleres/blob/master/hackmadrid%20%2527/tallerAircrack.pdf)**
