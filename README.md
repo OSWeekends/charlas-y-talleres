@@ -15,3 +15,10 @@ Aquí encontrarás algunos de los microtalleres impartidos en nuestros eventos
 - **[[Track de Fictizia] Cómo elegir correctamente las etiquetas HTML5 al maquetar por Ancoar](http://slides.com/ancoar/eligiendotagshtml5#/)**
 - **[[Track de OSWGuilds] Primer taller en OSWeekends por Theba Gomez](http://slides.com/tebagomez/oswguilds-1#/)**
 - **[[Track de OSWGuilds] ¡Github para tod@s! Pensando en proyectos open source por Ulises Gascón](http://slides.com/ulisesgascon/oswguilds-github-para-tods-pensando-en-proyectos-open-source#/)**
+
+### 2018:
+- **Taller de No liarla parda con Git:**
+
+  - [Slides](http://slides.com/elenam-lopez/no-liarla-parda-con-git-x)
+
+ - [Repositorio en GitHub](https://github.com/ElenaMLopez/taller_git)
